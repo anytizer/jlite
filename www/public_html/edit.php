@@ -24,7 +24,7 @@ function htmlform($data=[])
 <head>
     <title>Details</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="<?php echo $assets; ?>/css/w3.css" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
 </head>
 <body class="w3-teal">
 
