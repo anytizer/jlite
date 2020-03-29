@@ -1,0 +1,4 @@
+/api/public_html/*.pyc
+/api/public_html/__pycache__
+/www/sessions/sess*
+/database/*.db
